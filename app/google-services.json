@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722069437920",
+    "project_id": "nimma-guru-a799b",
+    "storage_bucket": "nimma-guru-a799b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722069437920:android:b42833aa8190f8e0b1ff85",
+        "android_client_info": {
+          "package_name": "com.example.nimmaguru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnpL0B7yLvAh79WD44Dmm9arSOOt004o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
